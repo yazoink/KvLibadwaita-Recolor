@@ -25,3 +25,7 @@ The palette JSON file should be structured like this:
 ```
 
 There are some example schemes in `./colorschemes`
+
+## Screenshots
+![20241223_16:31:05_screenshot](https://github.com/user-attachments/assets/cb9593a7-9c3c-497b-b187-ad8f8aafb070)
+
