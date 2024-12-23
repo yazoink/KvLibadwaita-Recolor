@@ -28,4 +28,5 @@ There are some example schemes in `./colorschemes`
 
 ## Screenshots
 ![20241223_16:31:05_screenshot](https://github.com/user-attachments/assets/cb9593a7-9c3c-497b-b187-ad8f8aafb070)
+![20241223_23:56:17_screenshot](https://github.com/user-attachments/assets/26beef57-9aff-4180-94d5-8987ba8dd9f3)
 
