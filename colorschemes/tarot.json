@@ -1,0 +1,12 @@
+{
+  "background00": "#0E091D",
+  "background01": "#1D1025",
+  "background02": "#251429",
+  "background03": "#3D1F35",
+  "background04": "#442339",
+  "foreground00": "#AA556F",
+  "foreground01": "#C4686D",
+  "accent": "#FF6565",
+  "disabled_foreground": "#74316B",
+  "divider_color": "#442339"
+}
